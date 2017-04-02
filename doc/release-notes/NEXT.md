@@ -7,3 +7,4 @@
 * Added a TraceWarning message when the authors file fails to copy to the cache location (#1071)
 * Prevent infinite loop when parent changeset cannot be found
 * Fix xcopy error on build with spaces in solution path (#1092)
+* Add support for Visual Studio 2017 (#1054, @fourpastmidnight)
